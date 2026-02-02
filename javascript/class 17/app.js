@@ -1,5 +1,5 @@
 var userName = document.getElementById("userName");
-
+ 
 function getValue() {
   console.log("getValue", userName.value);
 }
